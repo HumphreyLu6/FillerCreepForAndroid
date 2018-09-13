@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/z/l/zlu/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc11bfaa01430de0e9576894552409fa5348b15b">
+        <dex dex="/afs/ualberta.ca/home/z/l/zlu/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_077b1ed6e7d6b3bf7b3e33dc66d9741d585ae069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/afs/ualberta.ca/home/z/l/zlu/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/afs/ualberta.ca/home/z/l/zlu/Desktop/CMPUT301/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_678df590c9b51b0805ee282731cfc564fde013bc/classes.dex" />
+    </item>
+
+</items>
